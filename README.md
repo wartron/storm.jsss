@@ -1,3 +1,3 @@
 storm.jsss
 
-demo: http://labs.w-ll.org/storm/
+demo: http://willwharton.github.io/storm.jsss
